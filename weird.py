@@ -2,7 +2,7 @@ from discord.ext import commands, tasks
 from random import choices
 
 bot = commands.Bot(command_prefix='weird ')
-token = "NzE5MzM2MjI1MzQwNzg0Njgy.Xt18Fw.vNOL6vz-_wKTYDY4_Bqy_hNbBcI"
+token = ""
 messages = []
 string = "!\"#$%&'()********************+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[]^____________________abcdefghijklmnopqrstuvwxyz{}~~~~~~~~~~"
 is_spoiler = []
