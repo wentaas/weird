@@ -1,0 +1,1 @@
+A fun? Discord bot written in discord.py that sends a message and edits it into random strings of characters, going back and forth with making it spoiler. Don't use it too many times if you respect Discord's servers and your bandwidth. Tip: pin the message
